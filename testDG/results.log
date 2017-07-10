@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.12, pytest-2.9.1, py-1.4.34, pluggy-0.3.1 -- /usr/bin/python
+cachedir: .cache
+rootdir: /home/alekseyt/PycharmProjects/testDG, inifile: 
+plugins: html-1.8.1
+collecting ... collected 9 items
+
+test_be.py::test_basic_numbers PASSED
+test_be.py::test_negative_numbers PASSED
+test_be.py::test_string PASSED
+test_be.py::test_alphanumeric PASSED
+test_be.py::test_decimal PASSED
+test_be.py::test_noinput PASSED
+test_be.py::test_othercharacters PASSED
+test_be.py::test_invalid_request PASSED
+test_be.py::test_invalid_request_noinput PASSED
+
+=========================== 9 passed in 3.61 seconds ===========================
